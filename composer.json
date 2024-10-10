@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Facade\\": "src/Facade/",
+      "Services\\": "src/Services/"
+    }
+  }
+}
